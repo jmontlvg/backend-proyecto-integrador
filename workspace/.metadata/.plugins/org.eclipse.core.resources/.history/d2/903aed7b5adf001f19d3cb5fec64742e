@@ -1,0 +1,21 @@
+package org.generation;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
+import com.itextpdf.text.Document;
+import com.itextpdf.text.DocumentException;
+import com.itextpdf.text.pdf.PdfWriter;
+
+public class Main {
+
+	public static void main(String[] args) 
+			throws FileNotFoundException, DocumentException {
+		Document doc = new Document();
+		
+		PdfWriter.getInstance(doc, new FileOutputStream("ReciboPago.pdf"));
+		
+		
+		doc.close();
+	} // main
+} // class Main

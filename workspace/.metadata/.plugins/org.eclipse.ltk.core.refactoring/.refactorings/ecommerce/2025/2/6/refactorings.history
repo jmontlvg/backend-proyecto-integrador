@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ProductoService.java&apos; to &apos;org.generation.ecommerce.service.ProductoService.java&apos;&#x0D;&#x0A;- Original project: &apos;ecommerce&apos;&#x0D;&#x0A;- Destination element: &apos;org.generation.ecommerce.service.ProductoService.java&apos;&#x0D;&#x0A;- Original element: &apos;org.generation.ecommerce.service.ProductoService.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;org.generation.ecommerce.service{ProductoService.java" element1="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;org.generation.ecommerce.service{ProductoService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1738685761241" units="1" version="1.0"/>
+</session>
